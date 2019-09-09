@@ -1,26 +1,22 @@
+## DEFINICIONES
 
+# Lenguaje
+Un lenguaje de programación es un lenguaje formal diseñado para realizar procesos que pueden ser llevados a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana.  
 
-Plantilla generica de todo repositorio.
+Luis Olarte Gervacio. (2018). Lenguaje de Programación. 2019, Septiembre 9, Conogasi.org Sitio web: http://conogasi.org/articulos/lenguaje-de-programacion/
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+# Algoritmo
+Un **algoritmo** se puede definir como una secuencia de instrucciones que representan un modelo de solución para determinado tipo de problemas. O bien como un conjunto de instrucciones que realizadas en orden conducen a obtener la solución de un problema.
 
-----
+Sitio web: [http://ing.unne.edu.ar/pub/informatica/Alg_diag.pdf](http://ing.unne.edu.ar/pub/informatica/Alg_diag.pdf)
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+# Algoritmos cotidianos
+La serie de pasos que realizamos en nuestra vida diaria para realizar diferentes tareas y actividades comunes, desde los pasos al levantarnos, así como ir de compras.
 
-----
+# Definición de lenguajes algorítmicos
+Es una serie de símbolos y reglas que se utilizan para describir de manera explícita un proceso. Teniendo en cuenta la forma en que describen el proceso, existen dos tipos de lenguajes algorítmicos:
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
+-   **Gráficos:** Es la representación gráfica de las operaciones que realiza un algoritmo (diagrama de flujo).
+- **No Gráficos:** Representa en forma descriptiva las operaciones que debe realizar un algoritmo (pseudocódigo).
+Gemma Yolanda Cinco Hernández
+NANOTECNOLOGÍA
