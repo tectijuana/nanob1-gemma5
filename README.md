@@ -20,3 +20,4 @@ Es una serie de símbolos y reglas que se utilizan para describir de manera expl
 - **No Gráficos:** Representa en forma descriptiva las operaciones que debe realizar un algoritmo (pseudocódigo).
 Gemma Yolanda Cinco Hernández
 NANOTECNOLOGÍA
+![](http://conogasi.org/wp-content/uploads/2017/09/ALGORITMO.png)
