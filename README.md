@@ -1,7 +1,4 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
 
-<a href="https://cooltext.com"><img src="gema.png" width="477" height="65" alt="gema" /></a>
-<a href="http://cooltext.com" target="_top"><img src="gema" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 Plantilla generica de todo repositorio.
 
@@ -26,3 +23,4 @@ Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
